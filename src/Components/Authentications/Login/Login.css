@@ -1,0 +1,42 @@
+.passFieldslogin {
+  margin-top: 17px;
+
+}
+
+
+
+.signInForm {
+  width: 80%;
+  margin-left: 20%;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.17);
+  border-radius: 45.4773px;
+  text-align: left;
+  padding: 40px 30px;
+  margin-top: 30px;
+  margin-bottom: 150px;
+}
+
+.forgot {
+  text-align: start;
+  display: block;
+  font-size: 14px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-left: 4px;
+}
+.forgot:hover{
+    text-decoration: underline !important;
+    cursor: pointer ;
+}
+@media (max-width: 768px) {
+ 
+
+  .signInForm {
+    width: 94%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+
+ 
+}
